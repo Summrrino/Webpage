@@ -214,6 +214,16 @@ a{
         will-change: opacity, transform;
     }
 
+    .social a:hover{
+        opacity: 1;
+        transform: scale(1.25);
+    }
+
+    .social a:active{
+        opacity: 1;
+        transform: scale(1.1);
+    }
+
 
  
 
